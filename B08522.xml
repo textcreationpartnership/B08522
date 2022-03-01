@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy nevves from Portsmouth : Being a true relation of a great and desperate onset given by Major Randol, on Friday morning last: with the particula[r]s thereof, the manner of the engagement, and the number killed and taken prisoners. Also, the re-inforcing and securing of Ports Down Fort by the Parliaments forces. And a declaration of Sir Arthur Hasilrig and Vice-Admiral Lawson: with proposals to the people, Army Navy, and the militia of London, and the countrey. Likewise, a message from General Monck, to the Lords, Knights, gentlemen, and sheriffs, in the northern parts; and their answer thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08522</idno>
+            <idno type="OCLC"> 80921901</idno>
+            <idno type="STC">Wing B3274B</idno>
+            <idno type="STC">ESTC R172793</idno>
+            <idno type="EEBO-CITATION">80921901</idno>
+            <idno type="OCLC">ocm 80921901</idno>
+            <idno type="VID">191808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191808)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2889:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy nevves from Portsmouth : Being a true relation of a great and desperate onset given by Major Randol, on Friday morning last: with the particula[r]s thereof, the manner of the engagement, and the number killed and taken prisoners. Also, the re-inforcing and securing of Ports Down Fort by the Parliaments forces. And a declaration of Sir Arthur Hasilrig and Vice-Admiral Lawson: with proposals to the people, Army Navy, and the militia of London, and the countrey. Likewise, a message from General Monck, to the Lords, Knights, gentlemen, and sheriffs, in the northern parts; and their answer thereunto.</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Alexander Frere,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191808:1"/>
+            <pb facs="tcp:191808:1"/>
+            <pb facs="tcp:191808:2"/>
+            <pb facs="tcp:191808:2" rendition="simple:additions"/>
+            <p>BLOUDY NEVVES FROM Portſmouth: Being a true Relation of a great and deſperate Onſet given by Major <hi>Randol,</hi> on Friday Morning laſt: With the particulars thereof, the manner of the Engagement, and the number killed and taken priſoners.</p>
+            <p>Alſo, the re-inforcing and ſecuring of Ports <hi>Down Fort</hi> by the Parliaments Forces. And a Declara<g ref="char:EOLhyphen"/>tion of Sir <hi>Arthur Haſilrig<g ref="char:punc">▪</g>
+               </hi> and Vice-Admiral <hi>Lawſon:</hi> With <hi>Propoſals</hi> to the <hi>People, Army, Navy,</hi> and the Militia of <hi>London,</hi> and the <hi>Countrey.</hi>
+            </p>
+            <p>Likewiſe, a Meſſage from General <hi>Monck,</hi> to the Lords, Knights, Gentlemen, and Sheriffs, in the Northern parts; And their Anſwer thereunto.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Alexander Frere,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:191808:3" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:191808:3"/>
+            <head>A MESSAGE FROM General <hi>MONCK;</hi> To the Knights, Sheriffs, and Ju<g ref="char:EOLhyphen"/>ſtices, in their reſpective Shires, Cities, Towns, and <hi>CORPORATIONS.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>HAving a Call from God and his people to march into <hi>England</hi> to aſſert and maintain the Liberty and Being of <hi>Parliaments,</hi> our antient Conſtitution, and therein the Freedom and Rights of the people of theſe three Nations from arbytrary and tyrannical Uſurpation upon their Conſciences, perſons, and Eſtates, and for a Godly Miniſtry. I do therefore expect from you the Nobility, Gentle<g ref="char:EOLhyphen"/>men, and Sheriffs, and the Juſtices of peace, and each one of you, that you do preſerve the peace of the Commonwealth in your ſhire. And I do hereby authorize you to ſuppreſs all Tumults. Stirrings, and unlawful <hi>Aſſemblies,</hi> and that you hold no cor<g ref="char:EOLhyphen"/>reſpondency with any of <hi>Charles Stuarts</hi> party, or adherents, but
+<pb n="4" facs="tcp:191808:4"/>apprehend ſuch as ſhall make any diſturbance, and ſend them in to the next Carrion: And do further deſire you to countenance and encourage all the Godly Miniſtry, and all that truly fear <hi>God</hi> in the Land: and that you continue faithful to own and aſſert the Intereſt of Parliamentary Government, in your ſeveral pa<g ref="char:EOLhyphen"/>ces and ſtations, I hope my abſence will be very ſhort: but I do aſſure you that I will procure from the <hi>Parliament</hi> what ever may be for the good Government and relief of this Nation; and doubt not but to obtain abatements in your <hi>Aſſeſs, and other</hi> publick burdens, according to the proportion of <hi>England.</hi> And what further ſervice I may be able, I ſhall not be wanting in that which may promote the happineſs and peace of this afflict<g ref="char:EOLhyphen"/>ed people. I ſhall not trouble you further, but begg your pray<g ref="char:EOLhyphen"/>ers, and deſire you to aſſure your ſelves that I am</p>
+                  <closer>
+                     <signed>Your faithful Friend, and humble Servant, <hi>George Monck.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Edinburgh,</hi> 
+                        <date>
+                           <hi>Novemb.</hi> 15. 1659.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="account">
+            <p>To which the Lord, Knights, and Gentlemed, returned an anſwer by the Larl of <hi>Glencairn,</hi> and Sir <hi>James Stuart,</hi> That they are ſatisfied with his Lordſhips Engagement, and Grounds thereof, and that they were reſolved to concur with his Lord<g ref="char:EOLhyphen"/>ſhips deſires, in a mutual and affectionate concurrence, and in a poſitive owning of the Parliament, and diſowning all other In<g ref="char:EOLhyphen"/>tereſts whatſoever.</p>
+            <p>This anſwer being returned, his Lordſhip gave them thanks, and ordered them to convene and aſſemble in the <hi>Parliament</hi>-Houſe on the 12th inſtant: and the additional Forces being come from the <hi>Highlands,</hi> and other parts of the Nation a Rendezvouz was a pointed, and Proclamation made at the Head of each reſpective Regiment, both of Horſe and Foot, For all Perſons whatſoever, either Officers and Souldiers, throughout the army, that could not freely, willingly, or conſciouſly, engage with Him, in this preſent Expedition to lay down their Arms &amp; depart the Army; and that for his own part, he had a deep ſenſe of this great and National Affair, having juſt grounds of diſſatisfaction, and that he could not comply with any, who ſhould refuſe, or ſeem dubious, to ſtand or adhere to a warran<g ref="char:EOLhyphen"/>table concurrence: His Undertakings being ſuch, that the can<g ref="char:EOLhyphen"/>nour
+<pb n="5" facs="tcp:191808:4"/>of his Heart bore him Teſtimony and Evidence of the juſt<g ref="char:EOLhyphen"/>neſs of his <hi>Cauſe;</hi> and that he ought not to violate the Autho<g ref="char:EOLhyphen"/>rity of <hi>Parliaments,</hi> whoſe Legiſlative Power and Freedom, every individual Member were bound to aſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt and maintain, after ſuch ſolemn aſſurances of faithfulneſs and obedience; and to aſſert the honour and integrity of ſuch Noble Patriots, who for many years had undergone a Labyrinth of Troubles, and ſtood even in the very Gap and Gulph of the Ruines, Deſolati<g ref="char:EOLhyphen"/>ons, and Miſeries, that for many yeaars threatned theſe diſtra<g ref="char:EOLhyphen"/>cte, divided, and bleeding Nations.</p>
+            <p>Proclamation being thus made by ſound of Trumpet, the Army drew off in Regimental way, General <hi>Monck</hi> leading the Van, and Major General <hi>Morgan</hi> bringing up the Rear; a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Northern <hi>Aviſoes</hi> ſpeak them to be about nine thouſand Foot, two thouſand Horſe and twelve hundred Dragoons: This ſeems high, and to exceed in Numeration; for the Letters from <hi>Newcaſtle</hi> import otherwiſe, and carry a contrary <hi>Dialect.</hi>
+            </p>
+            <p>Upon their advance to <hi>Berwick,</hi> the General commanded Colonel <hi>Ogle</hi> to march over the Bridge into <hi>Northumberland,</hi> he having he Conduct of the Scots and Highlands, his appoint<g ref="char:EOLhyphen"/>ed ſtation being at <hi>Alnwick:</hi> The reſt of his Forces are quarte<g ref="char:EOLhyphen"/>red about <hi>Fenwick,</hi> and the parts adjacent; obſerving not one<g ref="char:EOLhyphen"/>ly a vigilant poſture at the ſeveral paſſes and Avenues, but alſo a ſtrong Guard near the Holy Iſland.</p>
+            <p>The Gentry Miniſtry, and Commonalty, throughout the whole Countrey of <hi>Northumberland,</hi> had declared a mutual concur<g ref="char:EOLhyphen"/>rence, and the Lord <hi>Lambert</hi> is approaching towards the Con<g ref="char:EOLhyphen"/>fines of <hi>Berwick.</hi>
+            </p>
+            <p>General <hi>Monck</hi> having ſent a Letter to Vice-Admiral <hi>Law<g ref="char:EOLhyphen"/>ſon,</hi> deſiring his concurrence for reſtoring of the <hi>Parliament,</hi> and to remove the Interruption put upon them the 13th of <hi>October</hi> laſt; receive this anſwer, That nothing ſhould be wanting in him to compoſe all differences, and to obliterate all things whatſoever, by perſon or perſons, concerned in the late diffe<g ref="char:EOLhyphen"/>rence betwixt the Parliament and Army.</p>
+            <p>Since which time, the ſaid Vice-admiral hath declared, That through the Lords aſſiſtance, he will in all Chriſtian wayes and means, Endeavour the begetting a right Underſtanding betwixt
+<pb n="6" facs="tcp:191808:5"/>the Parliament and Army, and happy compoſure (if it may be) without bloud-ſhed: But if there by yer an endeavour by Force to hinder the Parliament, from returning to the Exerciſe and Diſcharge of their Truſt, who have ſo often bin declured the ſupream Authority of theſe Nations, That then he will to the utmoſt of his power, with his life, and all that is dear to him, uſe his whole Intereſt for the removing of that Force, and reſtore Them to their Freedom and priviledges. Further declaring, (as in the preſence of the Lord) That he hath no aym nor ends to advance particular Intereſts, but the Intereſt of Chriſt, and the good and weal of all the people of God, in their Rights, Civil and Religious, and of theſe poor ſuffering Nations in general; utterly diſclaiming the Intereſt of <hi>Charles Stuart,</hi> and all his <hi>Ad<g ref="char:EOLhyphen"/>herents;</hi> or the Intereſt of any ſingle perſon whatſoever, of Houſe of Lords; doubting not but to find the concurrence and aſſiſt<g ref="char:EOLhyphen"/>ance of all the faithful and upright-hearted in the Land. For whoſe ſakes, next to the Cauſe of Chriſt, (God being his Wit<g ref="char:EOLhyphen"/>neſs,) he hath engaged.</p>
+            <p>And he therefore invites all Brethren of the Churches, Army, Nay, and Militia of the City of <hi>London</hi> and <hi>Country,</hi> and that profeſs love to God, and his people, to joyn with him, and give their Chriſtian aid and aſſiſtance in the performance of the pre<g ref="char:EOLhyphen"/>miſes, which the Lord hath called them unto; leaſt when too late, They have cauſe to lament the non-improvement of the Opportunity that God hath put into his hands, once more to aſſert the priviledges of Parliament, and Liberty of the good people of this Nation.</p>
+            <p>In purſuance of theſe Reſolutions, Sir <hi>Arthur Haſilrig,</hi> and the reſt of the Parliament men at <hi>Portſmouth,</hi> have declared, That they intended not to levy or raiſe any war in the Nation, thereby to open a breach for the Common Enemy to enter, being more concerned againſt him, then to afford him ſuch ad<g ref="char:EOLhyphen"/>vantage, but that the Treaty being on foot betwixt the Army and Gen. <hi>Monck,</hi> the Commander in chief of the Parliaments Forces in <hi>Scotland,</hi> the gaining of that place might be a means to facilitate it, and ballance the affair, and that they hoped it would produce a right underſtanding and unity ſo much deſi<g ref="char:EOLhyphen"/>red by all good men.</p>
+            <pb n="7" facs="tcp:191808:5"/>
+            <p>To which the Townſmen anſwered, That they would ſtand by them in theſe their Intentions, and afford them all the aſſiſt<g ref="char:EOLhyphen"/>ance they can.</p>
+            <p>The Town is well fortifyed and provided, the Souldiery u<g ref="char:EOLhyphen"/>nanimous, and the Inhabitants very chearful and reſolute to go through with them, and to bear part of the Duty, hoping by their cordial concurrence to engage the reſt of the conſiderable places of the Nation to do the like. They have already re<g ref="char:EOLhyphen"/>inforced Port. <hi>Down fort</hi> with four pieces of Artillery more, and have lodged there a convenient Gariſon, They have alſo ſix Companies of Foot of the Army, and have raiſed two Troops of Horſe in the Town.</p>
+            <p>There are ten gallant Men of War in the Harbour, who have declared themſelves for the Parliament, two whereof have ſet ſail with Commiſſion upon the State affairs. Vice-admiral <hi>Lawſon</hi> is expected daily with the Fleet under his Command to their aſſiſtance. The <hi>Marſton-Moor, Phenix, Lyon,</hi> and <hi>Pelli<g ref="char:EOLhyphen"/>can</hi> Frigats, are rigging. Mr. <hi>Wallop,</hi> the moſt conſiderable Gen<g ref="char:EOLhyphen"/>tleman in thoſe parts is gone into <hi>Portſmouth,</hi> with 50 Horſe, moſt of them his Tenants.</p>
+            <p>Sir <hi>Arthur</hi> hath further declared, That nothing will be done by Treaty at <hi>Newcaſtle,</hi> without a preliminary Article for re<g ref="char:EOLhyphen"/>ſtoring the Parliament to a Free Seſſion without any other con<g ref="char:EOLhyphen"/>dition.</p>
+         </div>
+         <div type="account">
+            <pb n="8" facs="tcp:191808:6"/>
+            <p>By an Expreſs from <hi>Portſmouth</hi> on Saturday night laſt, it is certified, That Major <hi>Randol</hi> having raiſed about fourty choice and ſelected Horſe, with ſtout Riders, and well arm'd, on Friday laſt made his approach within 5 or 6 miles of <hi>Portſmouth;</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was forced to fight his paſſage through two Troops of Horſe, and ſeveral Companies of Colonel <hi>Gibbon</hi>'s Regiment of Foot, leaving five of his men behind, two being ſlain, and three taken priſoners, having their horſes ſhot under them. Some few were wounded, but got off to Ports <hi>Down fort,</hi> where the Bridge be<g ref="char:EOLhyphen"/>ing let down, they marched over to <hi>Portſmouth,</hi> with their Red Standard and one Trumpet ſounding, devoting their ſervice to Sir <hi>Arthur Haſilrigg,</hi> who treated and entertained them with a friendly acceptation, welcoming them in with a Volley from the great Guns. Many of the Army-forces have re-inforced <hi>Fae<g ref="char:EOLhyphen"/>ram,</hi> and the Towns adjacent, having very bad quarters, ſome lying in Barns, and other Out-places, yet they are very unani<g ref="char:EOLhyphen"/>mous, and deſirous of action,</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:191808:6"/>
+            <pb facs="tcp:191808:7"/>
+            <pb facs="tcp:191808:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
